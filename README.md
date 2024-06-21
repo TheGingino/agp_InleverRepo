@@ -12,7 +12,7 @@ Unreal Engine
 | Product  | Link |
 | ------ |  ------ |
 | Link naar online product backlog (Trello) | [Backlog](https://unreal-academy.codecks.io/decks/152-sprint-backlog-06)
-| Logboek (pdf)                             | [Logboek]
+| Logboek (pdf)                             | [Logboek](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Stand-ups%20-%20VRShooter%202024%20-%20Periode%204.pdf)
 | Game concept doc (pdf)                    | [GameDesignDoc](https://unreal-academy.codecks.io/decks/148-functioneel-ontwerp/card/4ws-the-ranged-enemy)
 |<img width=500/>|<img width=300/>|
    
@@ -21,7 +21,7 @@ Unreal Engine
 | ------ |  ------ |
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [Backlog](https://unreal-academy.codecks.io/decks/109-product-backlog)
 | Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
-| Logboek (pdf)                                             | [Logboek]
+| Logboek (pdf)                                             | [Logboek](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Stand-ups%20-%20VRShooter%202024%20-%20Periode%204.pdf)
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
 |<img width=500/>|<img width=300/>|
    
