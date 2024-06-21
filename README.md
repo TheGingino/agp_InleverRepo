@@ -1,5 +1,5 @@
 ## The Rift Guardian
-Project team:Devils Luck
+Project team: Devils Luck
 
 Platform:
 Unreal Engine
