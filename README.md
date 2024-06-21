@@ -20,7 +20,7 @@ Unreal Engine
 | Product  | Link |
 | ------ |  ------ |
 | Online Product backlog & Sprint backlog + DoD (Trello)    | [DoD](https://unreal-academy.codecks.io/card/3qj-definition-of-done-dod) [Backlog](https://unreal-academy.codecks.io/decks/109-product-backlog) [Sprint Backlog](https://unreal-academy.codecks.io/decks/152-sprint-backlog-06)
-| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen]
+| Sprint retrospective verslagen (pdf)                      | [RetrospectiveVerslagen](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Retrospective%20Verslag.pdf) [Sprint Review 6 Verslag](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Sprint%20Review%20verslag.pdf)
 | Logboek (pdf)                                             | [Logboek](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Stand-ups%20-%20VRShooter%202024%20-%20Periode%204.pdf)
 | Opnames sprint retrospectives (Teams opnames)             | [Folder op teams]
 |<img width=500/>|<img width=300/>|
@@ -28,10 +28,10 @@ Unreal Engine
 #### Producten Werkproces 3
 | Product  | Link |
 | ------ |  ------ |
-| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen]
-| Sprint review verslagen (pdf)         | [ReviewVerslagen]
+| Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/RetrospectiveVerslagen.pdf)
+| Sprint review verslagen (pdf)         | [ReviewVerslagen](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Sprint%20Review%20verslag.pdf)
 | Link naar online speelbaar prototype  | [Prototype]
-| Logboek (pdf)                         | [Logboek]
+| Logboek (pdf)                         | [Logboek](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Stand-ups%20-%20VRShooter%202024%20-%20Periode%204.pdf)
 |<img width=500/>|<img width=300/>|
 
    [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
