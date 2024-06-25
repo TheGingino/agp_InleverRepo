@@ -30,7 +30,7 @@ The Rift Guardian is een vr shooter die zich afspeelt in de ruimte waar je enemi
 | ------ |  ------ |
 | Sprint retrospective verslagen (pdf)  | [RetrospectiveVerslagen](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Retrospective%20Verslag.pdf)
 | Sprint review verslagen (pdf)         | [ReviewVerslagen](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Sprint%20Review%20verslag.pdf)
-| Link naar online speelbaar prototype  | [Prototype]
+| Link naar online speelbaar prototype  | [Prototype](https://github.com/TheGingino/agp_InleverRepo/releases/tag/V1.0)
 | Logboek (pdf)                         | [Logboek](https://github.com/TheGingino/agp_InleverRepo/blob/master/producten/Stand-ups%20-%20VRShooter%202024%20-%20Periode%204.pdf)
 |<img width=500/>|<img width=300/>|
 
